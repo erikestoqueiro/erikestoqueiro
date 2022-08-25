@@ -1,4 +1,4 @@
 -  👋 Hi, I’m @erikestoqueiro
-- ⚡meu email para contato e @erik.estoqueiro@escola.pr.gov.br
-- 🌙estou interessado em aprender novas linguagens 
-- 🔥estou aprendendo a programar recentemente a linguagem de javascript e scratch 
+- ⚡Meu email para contato e @erik.estoqueiro@escola.pr.gov.br
+- 🌙Estou interessado em aprender novas linguagens 
+- 🔥Estou aprendendo a programar recentemente a linguagem de javascript e scratch 
